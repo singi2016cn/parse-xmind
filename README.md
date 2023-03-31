@@ -19,6 +19,14 @@ composer install
 
 # 使用
 
+## 安装
+
+```cmd
+composer require singi2016cn/parse-xmind
+```
+
+## 示例
+
 ```php
 use Singi2016cn\ParseXmind\Wps\ProcessOnSchema;
 
