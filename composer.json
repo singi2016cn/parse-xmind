@@ -1,0 +1,24 @@
+{
+    "name": "singi2016cn/parse-xmind",
+    "description": "parse xmind or similar file",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "9.6.x-dev"
+    },
+    "license": "BSD",
+    "autoload": {
+        "psr-4": {
+            "Singi2016cn\\ParseXmind\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "singi",
+            "email": "787575327@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.4"
+    }
+}
