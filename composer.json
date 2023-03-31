@@ -5,7 +5,7 @@
     "require-dev": {
         "phpunit/phpunit": "9.6.x-dev"
     },
-    "license": "BSD",
+    "license": "Apache-2.0",
     "autoload": {
         "psr-4": {
             "Singi2016cn\\ParseXmind\\": "src/"
